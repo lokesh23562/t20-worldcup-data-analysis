@@ -117,6 +117,5 @@ This analysis provided valuable insights into various aspects of the 2024 T20 Wo
 Feedback and Questions
 
 For feedback or questions about the project, please reach out by opening an issue on GitHub or contact me at:
-jitukumar9387@gmail.com
-
+lokeshbainaboyana@gmail.com
 Do you want me to expand the "Visualizations" section with individual explanations for each graph (1_Distribution of Runs Scored, 2_Distribution of Batting Average, etc.) so that each chart you generated gets documented in README? That would make it fully ready for GitHub.
